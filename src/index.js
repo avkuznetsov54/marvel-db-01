@@ -24,3 +24,4 @@ getResource('http://gateway.marvel.com/v1/public/characters/1010354?apikey=2b160
   .then((body) => {
     console.log(body);
   });
+
